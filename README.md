@@ -8,8 +8,6 @@ testing_caption_generator.py: generates captions
 
 Tokenizer.p: tokens mapped with an index value
 
-Features.p: Image and its feature vector extracted from the Xception model
-
 Descriptions.txt: all image names with their captions
 
-Models: Trained models
+Dataset: Flicker8k_Dataset
